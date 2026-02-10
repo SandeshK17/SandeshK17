@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SandeshK17
+- 👋 Hi, I’m @Sandesh Kashyap
 - 👀 I’m interested in web development and data science 
 - 🌱 I’m currently learning DBMS
 - 💞️ I’m looking to collaborate on web development 
