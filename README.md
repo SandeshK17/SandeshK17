@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandesh Kashyap
 - 👀 I’m interested in web development and data science 
-- 🌱 I’m currently learning DBMS
+- 🌱 I’m currently persuing MCA.
 - 💞️ I’m looking to collaborate on web development 
 - 📫 Reach me at sndshkshp@gmail.com
 
