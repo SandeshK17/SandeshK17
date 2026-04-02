@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Sandesh Kashyap<br>- 👀 I’m interested in web development and Data Science <br>- 🌱 I’m currently persuing MCA.<br>- 💞️ I’m looking to collaborate on web development <br>- 📫 Reach me at sndshkshp@gmail.com
+👋 Hi, I’m @Sandesh Kashyap<br>- 👀 I’m interested in Web Development and Data Science <br>- 🌱 I’m currently persuing MCA.<br>- 💞️ I’m looking to collaborate on web development <br>- 📫 Reach me at sndshkshp@gmail.com
 
 
 # 💻 Tech Stack:
