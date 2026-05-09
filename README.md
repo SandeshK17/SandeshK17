@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey I am Sandesh Kashyap 💫 
 👋 Hi, I’m @Sandesh Kashyap<br>- 👀 I’m interested in Web Development and Data Science<br>- 🌱 I am currently persuing MCA.<br>- 💞️ I am looking to collaborate on web development <br>-📫 Reach me at sndshkshp@gmail.com
 
 
