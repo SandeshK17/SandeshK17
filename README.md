@@ -1,5 +1,5 @@
 # Hey, I am Sandesh Kashyap 💫 
-- 💻 Full-Stack Web Developer & MCA Student <br> - 👀 I’m interested in Web Development and Data Science<br>- 🌱 Currently pursuing an MCA. <br>- 💞️ Full-Stack Web Development and Data Science <br>- 👋Open to collaborating on open-source and web development projects. <br>-📫 Reach me at sndshkshp@gmail.com
+💻 Full-Stack Web Developer & MCA Student <br> - 👀 I’m interested in Web Development and Data Science<br>- 🌱 Currently pursuing an MCA. <br>- 💞️ Full-Stack Web Development and Data Science <br>- 👋Open to collaborating on open-source and web development projects. <br>-📫 Reach me at sndshkshp@gmail.com
 
 
 # 💻 Tech Stack:
